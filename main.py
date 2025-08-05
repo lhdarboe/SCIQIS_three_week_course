@@ -1,4 +1,5 @@
 print('Hello, how is it going? I like bananas!')
+<<<<<<< HEAD
 
 print('Hello, its going great! I love bananas too!')
 
@@ -15,3 +16,5 @@ print('Bananas can be dried and eaten as snacks!')
 
 print('Bananas are a good source of energy!')
 print('Bananas are great for athletes!')
+=======
+>>>>>>> testing_out
