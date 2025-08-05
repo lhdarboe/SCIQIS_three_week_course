@@ -5,3 +5,6 @@ print('Hello, its going great! I love bananas too!')
 print('Bananas are my favorite fruit!')
 print('Bananas are great for health!')
 print('Bananas are rich in potassium!')
+
+print('Bananas are a good source of energy!')
+print('Bananas are great for athletes!')
